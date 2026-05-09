@@ -51,8 +51,8 @@ Real-time electric field **E** from **point charges** using Coulomb superpositio
 ### Install & run locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/mafimatiks/ElectricField.git
+cd ElectricField
 npm install
 npm run dev
 ```
