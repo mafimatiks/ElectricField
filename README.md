@@ -12,7 +12,6 @@
 
 ---
 
-##Visit the Site below:
 https://mafimatiks.github.io/ElectricField/
 
 ## ✨ Key Features
