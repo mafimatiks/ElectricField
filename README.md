@@ -12,21 +12,14 @@
 
 ---
 
-## 🖼️ Visuals
-
-> **Screenshot / GIF (placeholder)**
-
-Add your own asset and link it here, for example:
-
-```markdown
-![Electric Field Visualiser demo](./docs/screenshot.png)
-```
+##Visit the Site below:
+https://mafimatiks.github.io/ElectricField/
 
 ## ✨ Key Features
 
 ### 🔬 Interactive physics
 
-Real-time electric field **E⃗** from **point charges** using Coulomb superposition. Vectors show **direction** and **relative strength** (equal arrow length, brightness ↔ |E⃗|).
+Real-time electric field **E** from **point charges** using Coulomb superposition. Vectors show **direction** and **relative strength**.
 
 ### Infinite canvas
 
