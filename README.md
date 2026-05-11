@@ -12,7 +12,7 @@
 
 ---
 
-https://mafimatiks.github.io/ElectricField/
+https://veyloradev.github.io/ElectricField/
 
 ## ✨ Key Features
 
@@ -51,7 +51,7 @@ Real-time electric field **E** from **point charges** using Coulomb superpositio
 ### Install & run locally
 
 ```bash
-git clone https://github.com/mafimatiks/ElectricField.git
+git clone https://github.com/veyloradev/ElectricField.git
 cd ElectricField
 npm install
 npm run dev
