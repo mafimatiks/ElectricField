@@ -83,7 +83,7 @@ npm run preview
 | `npm run build` | Type-check-free production bundle to `dist/` |
 | `npm run preview` | Serve `dist/` locally |
 
-## 🎮 Controls (quick reference)
+## 🎮 Controls (quick reference):
 
 | Action | Input |
 |--------|--------|
